@@ -15,9 +15,9 @@ IIIF Manifest (see `bbmn-1713` folder):
 - canvas-level metadata
 
 Manifest URLs: 
--  Tome I: [http://iiif.biblissima.fr/bbmn-1713-t1/manifest.json](http://iiif.biblissima.fr/bbmn-1713-t1/manifest.json)
--  Tome II: [http://iiif.biblissima.fr/bbmn-1713-t2/manifest.json](http://iiif.biblissima.fr/bbmn-1713-t2/manifest.json)
-- Idex: [http://iiif.biblissima.fr/bbmn-1713-index/manifest.json](http://iiif.biblissima.fr/bbmn-1713-index/manifest.json)
+- Tome I: [http://iiif.biblissima.fr/bbmn-1713-t1/manifest.json](http://iiif.biblissima.fr/bbmn-1713-t1/manifest.json)
+- Tome II: [http://iiif.biblissima.fr/bbmn-1713-t2/manifest.json](http://iiif.biblissima.fr/bbmn-1713-t2/manifest.json)
+- Index: [http://iiif.biblissima.fr/bbmn-1713-index/manifest.json](http://iiif.biblissima.fr/bbmn-1713-index/manifest.json)
 
 [Go to demo page](http://demos.biblissima-condorcet.fr/bbmn-1713/)
 
