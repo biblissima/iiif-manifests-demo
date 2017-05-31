@@ -1,0 +1,3506 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://iiif.biblissima.fr/B693836101_MS0788/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "Lyon, Bibliothèque Municipale, Ms. 788",
+    "metadata": [
+       {
+            "label": "Repository",
+            "value": "Bibliothèque Municipale de Lyon"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "Lyon, Bibliothèque Municipale, Ms. 788"
+        },
+        {
+            "label": "Title",
+            "value": "Œuvres diverses"
+        },
+       {
+            "label": "Creator",
+            "value": [
+                "Donat. Auteur",
+                "Saint Bède le Vénérable. Auteur",
+                "Térence. Auteur",
+                "Saint Jérôme. Auteur"
+               ]
+        },
+        {
+            "label": "Language",
+            "value": "Latin"
+        },
+        {
+            "label": "Material",
+            "value": "Parchemin"
+        },
+        {
+            "label": "Extent",
+            "value": "77 f. numérotés de 1 à 101"
+        },
+        {
+            "label": "Date",
+            "value": "IXe siècle"
+        },
+        {
+            "label": "Provider",
+            "value": "Bibliothèque Municipale de Lyon"
+                
+        },
+        {
+            "label": "Disseminator",
+            "value": "Biblissima"
+        },
+        {
+            "label": "Source Images",
+            "value": "http://florus.bm-lyon.fr/visualisation.php?cote=MS0788&vue=1"
+        },
+        {
+            "label": "Source Metadata",
+            "value": "http://florus.bm-lyon.fr/description.php?cn=MS0788&saisie="
+        }
+    ],
+    "description": "Manuscrit composite composé de fragments de manuscrits de différentes époques et de plusieurs auteurs. Certains ont été réunis à leur manuscrit d’origine: les feuillets 35-40 ont été replacés dans le Ms 602 de la BM de Lyon, les feuillets 49-58 dans le Ms 604 de la BM de Lyon, les feuillets 67-74 dans le le Ms 603 de la BM de Lyon, les feuillets 75-76 dans le Ms 336 de la BM de Lyon, les feuillets 77-82 dans le Ms 483 de la BM le Lyon.",
+    "license": "http://numelyo.bm-lyon.fr/conditions_utilisation",
+    "sequences": [{
+        "@id": "http://iiif.biblissima.fr/B693836101_MS0788/sequence/normal",
+        "@type": "sc:Sequence",
+        "label": "Normal",
+        "canvases": [{
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_002_RCS",
+            "@type": "sc:Canvas",
+            "label": "RCS",
+            "width": 5600,
+            "height": 7704,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_002_RCS",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_002_RCS.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_002_RCS.JPG.tif"
+                    },
+                    "width": 5600,
+                    "height": 7704
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_002_RCS"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_003_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 5576,
+            "height": 7400,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_003_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_003_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_003_PG.JPG.tif"
+                    },
+                    "width": 5576,
+                    "height": 7400
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_003_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_004_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 5696,
+            "height": 7624,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_004_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_004_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_004_PG.JPG.tif"
+                    },
+                    "width": 5696,
+                    "height": 7624
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_004_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_005_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 4360,
+            "height": 5688,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_005_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_005_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_005_PG.JPG.tif"
+                    },
+                    "width": 4360,
+                    "height": 5688
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_005_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_006_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 5608,
+            "height": 7688,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_006_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_006_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_006_PG.JPG.tif"
+                    },
+                    "width": 5608,
+                    "height": 7688
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_006_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_007_1R",
+            "@type": "sc:Canvas",
+            "label": "1r",
+            "width": 3000,
+            "height": 4512,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_007_1R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_007_1R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_007_1R.JPG.tif"
+                    },
+                    "width": 3000,
+                    "height": 4512
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_007_1R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_008_1V",
+            "@type": "sc:Canvas",
+            "label": "1v",
+            "width": 2712,
+            "height": 4368,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_008_1V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_008_1V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_008_1V.JPG.tif"
+                    },
+                    "width": 2712,
+                    "height": 4368
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_008_1V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_009_2R",
+            "@type": "sc:Canvas",
+            "label": "2r",
+            "width": 2928,
+            "height": 4512,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_009_2R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_009_2R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_009_2R.JPG.tif"
+                    },
+                    "width": 2928,
+                    "height": 4512
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_009_2R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_010_2V",
+            "@type": "sc:Canvas",
+            "label": "2v",
+            "width": 2784,
+            "height": 4352,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_010_2V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_010_2V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_010_2V.JPG.tif"
+                    },
+                    "width": 2784,
+                    "height": 4352
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_010_2V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_011_3R",
+            "@type": "sc:Canvas",
+            "label": "3r",
+            "width": 2872,
+            "height": 4472,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_011_3R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_011_3R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_011_3R.JPG.tif"
+                    },
+                    "width": 2872,
+                    "height": 4472
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_011_3R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_012_3V",
+            "@type": "sc:Canvas",
+            "label": "3v",
+            "width": 2776,
+            "height": 4392,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_012_3V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_012_3V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_012_3V.JPG.tif"
+                    },
+                    "width": 2776,
+                    "height": 4392
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_012_3V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_013_4R",
+            "@type": "sc:Canvas",
+            "label": "4r",
+            "width": 2824,
+            "height": 4480,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_013_4R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_013_4R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_013_4R.JPG.tif"
+                    },
+                    "width": 2824,
+                    "height": 4480
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_013_4R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_014_4V",
+            "@type": "sc:Canvas",
+            "label": "4v",
+            "width": 2864,
+            "height": 4440,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_014_4V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_014_4V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_014_4V.JPG.tif"
+                    },
+                    "width": 2864,
+                    "height": 4440
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_014_4V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_015_5R",
+            "@type": "sc:Canvas",
+            "label": "5r",
+            "width": 2760,
+            "height": 4496,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_015_5R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_015_5R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_015_5R.JPG.tif"
+                    },
+                    "width": 2760,
+                    "height": 4496
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_015_5R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_016_5V",
+            "@type": "sc:Canvas",
+            "label": "5v",
+            "width": 2832,
+            "height": 4392,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_016_5V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_016_5V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_016_5V.JPG.tif"
+                    },
+                    "width": 2832,
+                    "height": 4392
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_016_5V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_017_6R",
+            "@type": "sc:Canvas",
+            "label": "6r",
+            "width": 2848,
+            "height": 4520,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_017_6R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_017_6R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_017_6R.JPG.tif"
+                    },
+                    "width": 2848,
+                    "height": 4520
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_017_6R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_018_6V",
+            "@type": "sc:Canvas",
+            "label": "6v",
+            "width": 2912,
+            "height": 4408,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_018_6V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_018_6V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_018_6V.JPG.tif"
+                    },
+                    "width": 2912,
+                    "height": 4408
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_018_6V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_019_7R",
+            "@type": "sc:Canvas",
+            "label": "7r",
+            "width": 2792,
+            "height": 4488,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_019_7R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_019_7R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_019_7R.JPG.tif"
+                    },
+                    "width": 2792,
+                    "height": 4488
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_019_7R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_020_7V",
+            "@type": "sc:Canvas",
+            "label": "7v",
+            "width": 2976,
+            "height": 4432,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_020_7V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_020_7V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_020_7V.JPG.tif"
+                    },
+                    "width": 2976,
+                    "height": 4432
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_020_7V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_021_8R",
+            "@type": "sc:Canvas",
+            "label": "8r",
+            "width": 2968,
+            "height": 4424,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_021_8R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_021_8R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_021_8R.JPG.tif"
+                    },
+                    "width": 2968,
+                    "height": 4424
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_021_8R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_022_8V",
+            "@type": "sc:Canvas",
+            "label": "8v",
+            "width": 3000,
+            "height": 4392,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_022_8V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_022_8V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_022_8V.JPG.tif"
+                    },
+                    "width": 3000,
+                    "height": 4392
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_022_8V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_023_9R",
+            "@type": "sc:Canvas",
+            "label": "9r",
+            "width": 2984,
+            "height": 4376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_023_9R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_023_9R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_023_9R.JPG.tif"
+                    },
+                    "width": 2984,
+                    "height": 4376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_023_9R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_024_9V",
+            "@type": "sc:Canvas",
+            "label": "9v",
+            "width": 3032,
+            "height": 4472,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_024_9V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_024_9V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_024_9V.JPG.tif"
+                    },
+                    "width": 3032,
+                    "height": 4472
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_024_9V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_025_10R",
+            "@type": "sc:Canvas",
+            "label": "10r",
+            "width": 3000,
+            "height": 4416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_025_10R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_025_10R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_025_10R.JPG.tif"
+                    },
+                    "width": 3000,
+                    "height": 4416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_025_10R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_026_10V",
+            "@type": "sc:Canvas",
+            "label": "10v",
+            "width": 3088,
+            "height": 4376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_026_10V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_026_10V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_026_10V.JPG.tif"
+                    },
+                    "width": 3088,
+                    "height": 4376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_026_10V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_027_11R",
+            "@type": "sc:Canvas",
+            "label": "11r",
+            "width": 2968,
+            "height": 4328,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_027_11R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_027_11R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_027_11R.JPG.tif"
+                    },
+                    "width": 2968,
+                    "height": 4328
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_027_11R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_028_11V",
+            "@type": "sc:Canvas",
+            "label": "11v",
+            "width": 3104,
+            "height": 4376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_028_11V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_028_11V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_028_11V.JPG.tif"
+                    },
+                    "width": 3104,
+                    "height": 4376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_028_11V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_029_12R",
+            "@type": "sc:Canvas",
+            "label": "12r",
+            "width": 2952,
+            "height": 4376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_029_12R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_029_12R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_029_12R.JPG.tif"
+                    },
+                    "width": 2952,
+                    "height": 4376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_029_12R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_030_12V",
+            "@type": "sc:Canvas",
+            "label": "12v",
+            "width": 3128,
+            "height": 4480,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_030_12V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_030_12V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_030_12V.JPG.tif"
+                    },
+                    "width": 3128,
+                    "height": 4480
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_030_12V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_031_13R",
+            "@type": "sc:Canvas",
+            "label": "13r",
+            "width": 3024,
+            "height": 4416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_031_13R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_031_13R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_031_13R.JPG.tif"
+                    },
+                    "width": 3024,
+                    "height": 4416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_031_13R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_032_13V",
+            "@type": "sc:Canvas",
+            "label": "13v",
+            "width": 3136,
+            "height": 4440,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_032_13V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_032_13V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_032_13V.JPG.tif"
+                    },
+                    "width": 3136,
+                    "height": 4440
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_032_13V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_033_14R",
+            "@type": "sc:Canvas",
+            "label": "14r",
+            "width": 2976,
+            "height": 4408,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_033_14R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_033_14R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_033_14R.JPG.tif"
+                    },
+                    "width": 2976,
+                    "height": 4408
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_033_14R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_034_14V",
+            "@type": "sc:Canvas",
+            "label": "14v",
+            "width": 3136,
+            "height": 4464,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_034_14V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_034_14V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_034_14V.JPG.tif"
+                    },
+                    "width": 3136,
+                    "height": 4464
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_034_14V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_035_15R",
+            "@type": "sc:Canvas",
+            "label": "15r",
+            "width": 2976,
+            "height": 4408,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_035_15R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_035_15R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_035_15R.JPG.tif"
+                    },
+                    "width": 2976,
+                    "height": 4408
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_035_15R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_036_15V",
+            "@type": "sc:Canvas",
+            "label": "15v",
+            "width": 3152,
+            "height": 4424,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_036_15V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_036_15V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_036_15V.JPG.tif"
+                    },
+                    "width": 3152,
+                    "height": 4424
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_036_15V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_037_16R",
+            "@type": "sc:Canvas",
+            "label": "16r",
+            "width": 3024,
+            "height": 4464,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_037_16R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_037_16R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_037_16R.JPG.tif"
+                    },
+                    "width": 3024,
+                    "height": 4464
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_037_16R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_038_16V",
+            "@type": "sc:Canvas",
+            "label": "16v",
+            "width": 3176,
+            "height": 4424,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_038_16V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_038_16V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_038_16V.JPG.tif"
+                    },
+                    "width": 3176,
+                    "height": 4424
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_038_16V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_039_17R",
+            "@type": "sc:Canvas",
+            "label": "17r",
+            "width": 3064,
+            "height": 4520,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_039_17R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_039_17R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_039_17R.JPG.tif"
+                    },
+                    "width": 3064,
+                    "height": 4520
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_039_17R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_040_17V",
+            "@type": "sc:Canvas",
+            "label": "17v",
+            "width": 3112,
+            "height": 4416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_040_17V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_040_17V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_040_17V.JPG.tif"
+                    },
+                    "width": 3112,
+                    "height": 4416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_040_17V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_041_18R",
+            "@type": "sc:Canvas",
+            "label": "18r",
+            "width": 2872,
+            "height": 4304,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_041_18R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_041_18R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_041_18R.JPG.tif"
+                    },
+                    "width": 2872,
+                    "height": 4304
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_041_18R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_042_18V",
+            "@type": "sc:Canvas",
+            "label": "18v",
+            "width": 3168,
+            "height": 4416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_042_18V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_042_18V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_042_18V.JPG.tif"
+                    },
+                    "width": 3168,
+                    "height": 4416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_042_18V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_043_19R",
+            "@type": "sc:Canvas",
+            "label": "19r",
+            "width": 2864,
+            "height": 4280,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_043_19R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_043_19R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_043_19R.JPG.tif"
+                    },
+                    "width": 2864,
+                    "height": 4280
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_043_19R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_044_19V",
+            "@type": "sc:Canvas",
+            "label": "19v",
+            "width": 3144,
+            "height": 4400,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_044_19V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_044_19V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_044_19V.JPG.tif"
+                    },
+                    "width": 3144,
+                    "height": 4400
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_044_19V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_045_20R",
+            "@type": "sc:Canvas",
+            "label": "20r",
+            "width": 2792,
+            "height": 4280,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_045_20R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_045_20R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_045_20R.JPG.tif"
+                    },
+                    "width": 2792,
+                    "height": 4280
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_045_20R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_046_20V",
+            "@type": "sc:Canvas",
+            "label": "20v",
+            "width": 3256,
+            "height": 4400,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_046_20V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_046_20V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_046_20V.JPG.tif"
+                    },
+                    "width": 3256,
+                    "height": 4400
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_046_20V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_047_21R",
+            "@type": "sc:Canvas",
+            "label": "21r",
+            "width": 2840,
+            "height": 4232,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_047_21R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_047_21R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_047_21R.JPG.tif"
+                    },
+                    "width": 2840,
+                    "height": 4232
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_047_21R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_048_21V",
+            "@type": "sc:Canvas",
+            "label": "21v",
+            "width": 3152,
+            "height": 4432,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_048_21V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_048_21V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_048_21V.JPG.tif"
+                    },
+                    "width": 3152,
+                    "height": 4432
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_048_21V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_049_22R",
+            "@type": "sc:Canvas",
+            "label": "22r",
+            "width": 2800,
+            "height": 4184,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_049_22R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_049_22R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_049_22R.JPG.tif"
+                    },
+                    "width": 2800,
+                    "height": 4184
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_049_22R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_050_22V",
+            "@type": "sc:Canvas",
+            "label": "22v",
+            "width": 3080,
+            "height": 4384,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_050_22V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_050_22V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_050_22V.JPG.tif"
+                    },
+                    "width": 3080,
+                    "height": 4384
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_050_22V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_051_23R",
+            "@type": "sc:Canvas",
+            "label": "23r",
+            "width": 3688,
+            "height": 5604,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_051_23R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_051_23R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_051_23R.JPG.tif"
+                    },
+                    "width": 3688,
+                    "height": 5604
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_051_23R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_052_23V",
+            "@type": "sc:Canvas",
+            "label": "23v",
+            "width": 3512,
+            "height": 5648,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_052_23V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_052_23V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_052_23V.JPG.tif"
+                    },
+                    "width": 3512,
+                    "height": 5648
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_052_23V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_053_24R",
+            "@type": "sc:Canvas",
+            "label": "24r",
+            "width": 3616,
+            "height": 5680,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_053_24R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_053_24R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_053_24R.JPG.tif"
+                    },
+                    "width": 3616,
+                    "height": 5680
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_053_24R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_054_24V",
+            "@type": "sc:Canvas",
+            "label": "24v",
+            "width": 3688,
+            "height": 5664,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_054_24V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_054_24V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_054_24V.JPG.tif"
+                    },
+                    "width": 3688,
+                    "height": 5664
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_054_24V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_055_25R",
+            "@type": "sc:Canvas",
+            "label": "25r",
+            "width": 3688,
+            "height": 5768,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_055_25R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_055_25R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_055_25R.JPG.tif"
+                    },
+                    "width": 3688,
+                    "height": 5768
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_055_25R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_056_25V",
+            "@type": "sc:Canvas",
+            "label": "25v",
+            "width": 3808,
+            "height": 5768,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_056_25V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_056_25V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_056_25V.JPG.tif"
+                    },
+                    "width": 3808,
+                    "height": 5768
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_056_25V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_057_26R",
+            "@type": "sc:Canvas",
+            "label": "26r",
+            "width": 3632,
+            "height": 5640,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_057_26R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_057_26R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_057_26R.JPG.tif"
+                    },
+                    "width": 3632,
+                    "height": 5640
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_057_26R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_058_26V",
+            "@type": "sc:Canvas",
+            "label": "26v",
+            "width": 3648,
+            "height": 6024,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_058_26V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_058_26V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_058_26V.JPG.tif"
+                    },
+                    "width": 3648,
+                    "height": 6024
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_058_26V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_059_27R",
+            "@type": "sc:Canvas",
+            "label": "27r",
+            "width": 4640,
+            "height": 5968,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_059_27R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_059_27R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_059_27R.JPG.tif"
+                    },
+                    "width": 4640,
+                    "height": 5968
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_059_27R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_060_27V",
+            "@type": "sc:Canvas",
+            "label": "27v",
+            "width": 4432,
+            "height": 5904,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_060_27V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_060_27V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_060_27V.JPG.tif"
+                    },
+                    "width": 4432,
+                    "height": 5904
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_060_27V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_061_28R",
+            "@type": "sc:Canvas",
+            "label": "28r",
+            "width": 4552,
+            "height": 5952,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_061_28R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_061_28R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_061_28R.JPG.tif"
+                    },
+                    "width": 4552,
+                    "height": 5952
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_061_28R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_062_28V",
+            "@type": "sc:Canvas",
+            "label": "28v",
+            "width": 4448,
+            "height": 5904,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_062_28V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_062_28V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_062_28V.JPG.tif"
+                    },
+                    "width": 4448,
+                    "height": 5904
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_062_28V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_063_29R",
+            "@type": "sc:Canvas",
+            "label": "29r",
+            "width": 4592,
+            "height": 5984,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_063_29R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_063_29R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_063_29R.JPG.tif"
+                    },
+                    "width": 4592,
+                    "height": 5984
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_063_29R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_064_29V",
+            "@type": "sc:Canvas",
+            "label": "29v",
+            "width": 4448,
+            "height": 5944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_064_29V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_064_29V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_064_29V.JPG.tif"
+                    },
+                    "width": 4448,
+                    "height": 5944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_064_29V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_065_30R",
+            "@type": "sc:Canvas",
+            "label": "30r",
+            "width": 4456,
+            "height": 5984,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_065_30R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_065_30R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_065_30R.JPG.tif"
+                    },
+                    "width": 4456,
+                    "height": 5984
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_065_30R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_066_30V",
+            "@type": "sc:Canvas",
+            "label": "30v",
+            "width": 4468,
+            "height": 5944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_066_30V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_066_30V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_066_30V.JPG.tif"
+                    },
+                    "width": 4468,
+                    "height": 5944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_066_30V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_067_31R",
+            "@type": "sc:Canvas",
+            "label": "31r",
+            "width": 4440,
+            "height": 5984,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_067_31R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_067_31R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_067_31R.JPG.tif"
+                    },
+                    "width": 4440,
+                    "height": 5984
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_067_31R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_068_31V",
+            "@type": "sc:Canvas",
+            "label": "31v",
+            "width": 4448,
+            "height": 5944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_068_31V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_068_31V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_068_31V.JPG.tif"
+                    },
+                    "width": 4448,
+                    "height": 5944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_068_31V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_069_32R",
+            "@type": "sc:Canvas",
+            "label": "32r",
+            "width": 4472,
+            "height": 5952,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_069_32R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_069_32R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_069_32R.JPG.tif"
+                    },
+                    "width": 4472,
+                    "height": 5952
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_069_32R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_070_32V",
+            "@type": "sc:Canvas",
+            "label": "32v",
+            "width": 4472,
+            "height": 5944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_070_32V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_070_32V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_070_32V.JPG.tif"
+                    },
+                    "width": 4472,
+                    "height": 5944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_070_32V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_071_33R",
+            "@type": "sc:Canvas",
+            "label": "33r",
+            "width": 4480,
+            "height": 6008,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_071_33R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_071_33R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_071_33R.JPG.tif"
+                    },
+                    "width": 4480,
+                    "height": 6008
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_071_33R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_072_33V",
+            "@type": "sc:Canvas",
+            "label": "33v",
+            "width": 4472,
+            "height": 5944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_072_33V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_072_33V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_072_33V.JPG.tif"
+                    },
+                    "width": 4472,
+                    "height": 5944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_072_33V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_073_34R",
+            "@type": "sc:Canvas",
+            "label": "34r",
+            "width": 4480,
+            "height": 6008,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_073_34R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_073_34R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_073_34R.JPG.tif"
+                    },
+                    "width": 4480,
+                    "height": 6008
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_073_34R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_074_34V",
+            "@type": "sc:Canvas",
+            "label": "34v",
+            "width": 4576,
+            "height": 5968,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_074_34V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_074_34V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_074_34V.JPG.tif"
+                    },
+                    "width": 4576,
+                    "height": 5968
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_074_34V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_075_41R",
+            "@type": "sc:Canvas",
+            "label": "41r",
+            "width": 5200,
+            "height": 6296,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_075_41R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_075_41R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_075_41R.JPG.tif"
+                    },
+                    "width": 5200,
+                    "height": 6296
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_075_41R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_076_41V",
+            "@type": "sc:Canvas",
+            "label": "41v",
+            "width": 4816,
+            "height": 6096,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_076_41V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_076_41V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_076_41V.JPG.tif"
+                    },
+                    "width": 4816,
+                    "height": 6096
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_076_41V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_077_42R",
+            "@type": "sc:Canvas",
+            "label": "42r",
+            "width": 5200,
+            "height": 6264,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_077_42R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_077_42R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_077_42R.JPG.tif"
+                    },
+                    "width": 5200,
+                    "height": 6264
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_077_42R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_078_42V",
+            "@type": "sc:Canvas",
+            "label": "42v",
+            "width": 4960,
+            "height": 6288,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_078_42V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_078_42V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_078_42V.JPG.tif"
+                    },
+                    "width": 4960,
+                    "height": 6288
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_078_42V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_079_43R",
+            "@type": "sc:Canvas",
+            "label": "43r",
+            "width": 4920,
+            "height": 6224,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_079_43R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_079_43R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_079_43R.JPG.tif"
+                    },
+                    "width": 4920,
+                    "height": 6224
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_079_43R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_080_43V",
+            "@type": "sc:Canvas",
+            "label": "43v",
+            "width": 4960,
+            "height": 6288,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_080_43V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_080_43V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_080_43V.JPG.tif"
+                    },
+                    "width": 4960,
+                    "height": 6288
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_080_43V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_081_44R",
+            "@type": "sc:Canvas",
+            "label": "44r",
+            "width": 4920,
+            "height": 6216,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_081_44R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_081_44R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_081_44R.JPG.tif"
+                    },
+                    "width": 4920,
+                    "height": 6216
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_081_44R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_082_44V",
+            "@type": "sc:Canvas",
+            "label": "44v",
+            "width": 5032,
+            "height": 6272,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_082_44V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_082_44V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_082_44V.JPG.tif"
+                    },
+                    "width": 5032,
+                    "height": 6272
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_082_44V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_083_45R",
+            "@type": "sc:Canvas",
+            "label": "45r",
+            "width": 4808,
+            "height": 6240,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_083_45R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_083_45R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_083_45R.JPG.tif"
+                    },
+                    "width": 4808,
+                    "height": 6240
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_083_45R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_084_45V",
+            "@type": "sc:Canvas",
+            "label": "45v",
+            "width": 4992,
+            "height": 6224,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_084_45V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_084_45V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_084_45V.JPG.tif"
+                    },
+                    "width": 4992,
+                    "height": 6224
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_084_45V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_085_46R",
+            "@type": "sc:Canvas",
+            "label": "46r",
+            "width": 4832,
+            "height": 6296,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_085_46R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_085_46R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_085_46R.JPG.tif"
+                    },
+                    "width": 4832,
+                    "height": 6296
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_085_46R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_086_46V",
+            "@type": "sc:Canvas",
+            "label": "46v",
+            "width": 5016,
+            "height": 6360,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_086_46V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_086_46V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_086_46V.JPG.tif"
+                    },
+                    "width": 5016,
+                    "height": 6360
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_086_46V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_087_47R",
+            "@type": "sc:Canvas",
+            "label": "47r",
+            "width": 4848,
+            "height": 6400,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_087_47R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_087_47R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_087_47R.JPG.tif"
+                    },
+                    "width": 4848,
+                    "height": 6400
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_087_47R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_088_47V",
+            "@type": "sc:Canvas",
+            "label": "47v",
+            "width": 5040,
+            "height": 6296,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_088_47V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_088_47V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_088_47V.JPG.tif"
+                    },
+                    "width": 5040,
+                    "height": 6296
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_088_47V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_089_48R",
+            "@type": "sc:Canvas",
+            "label": "48r",
+            "width": 4960,
+            "height": 6024,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_089_48R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_089_48R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_089_48R.JPG.tif"
+                    },
+                    "width": 4960,
+                    "height": 6024
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_089_48R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_090_48V",
+            "@type": "sc:Canvas",
+            "label": "48v",
+            "width": 5136,
+            "height": 6256,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_090_48V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_090_48V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_090_48V.JPG.tif"
+                    },
+                    "width": 5136,
+                    "height": 6256
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_090_48V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_091_59R",
+            "@type": "sc:Canvas",
+            "label": "59r",
+            "width": 5184,
+            "height": 6400,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_091_59R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_091_59R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_091_59R.JPG.tif"
+                    },
+                    "width": 5184,
+                    "height": 6400
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_091_59R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_092_59V",
+            "@type": "sc:Canvas",
+            "label": "59v",
+            "width": 4880,
+            "height": 6344,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_092_59V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_092_59V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_092_59V.JPG.tif"
+                    },
+                    "width": 4880,
+                    "height": 6344
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_092_59V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_093_60R",
+            "@type": "sc:Canvas",
+            "label": "60r",
+            "width": 5104,
+            "height": 6432,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_093_60R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_093_60R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_093_60R.JPG.tif"
+                    },
+                    "width": 5104,
+                    "height": 6432
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_093_60R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_094_60V",
+            "@type": "sc:Canvas",
+            "label": "60v",
+            "width": 4944,
+            "height": 6384,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_094_60V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_094_60V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_094_60V.JPG.tif"
+                    },
+                    "width": 4944,
+                    "height": 6384
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_094_60V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_095_61R",
+            "@type": "sc:Canvas",
+            "label": "61r",
+            "width": 5016,
+            "height": 6456,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_095_61R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_095_61R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_095_61R.JPG.tif"
+                    },
+                    "width": 5016,
+                    "height": 6456
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_095_61R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_096_61V",
+            "@type": "sc:Canvas",
+            "label": "61v",
+            "width": 4951,
+            "height": 6480,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_096_61V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_096_61V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_096_61V.JPG.tif"
+                    },
+                    "width": 4951,
+                    "height": 6480
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_096_61V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_097_62R",
+            "@type": "sc:Canvas",
+            "label": "62r",
+            "width": 4968,
+            "height": 6392,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_097_62R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_097_62R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_097_62R.JPG.tif"
+                    },
+                    "width": 4968,
+                    "height": 6392
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_097_62R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_098_62V",
+            "@type": "sc:Canvas",
+            "label": "62v",
+            "width": 4960,
+            "height": 6360,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_098_62V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_098_62V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_098_62V.JPG.tif"
+                    },
+                    "width": 4960,
+                    "height": 6360
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_098_62V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_099_63R",
+            "@type": "sc:Canvas",
+            "label": "63r",
+            "width": 4944,
+            "height": 6368,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_099_63R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_099_63R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_099_63R.JPG.tif"
+                    },
+                    "width": 4944,
+                    "height": 6368
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_099_63R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_100_63V",
+            "@type": "sc:Canvas",
+            "label": "63v",
+            "width": 5080,
+            "height": 6376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_100_63V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_100_63V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_100_63V.JPG.tif"
+                    },
+                    "width": 5080,
+                    "height": 6376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_100_63V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_101_64R",
+            "@type": "sc:Canvas",
+            "label": "64r",
+            "width": 4913,
+            "height": 6572,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_101_64R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_101_64R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_101_64R.JPG.tif"
+                    },
+                    "width": 4913,
+                    "height": 6572
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_101_64R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_102_64V",
+            "@type": "sc:Canvas",
+            "label": "64v",
+            "width": 5025,
+            "height": 6518,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_102_64V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_102_64V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_102_64V.JPG.tif"
+                    },
+                    "width": 5025,
+                    "height": 6518
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_102_64V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_103_65R",
+            "@type": "sc:Canvas",
+            "label": "65r",
+            "width": 4992,
+            "height": 6416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_103_65R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_103_65R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_103_65R.JPG.tif"
+                    },
+                    "width": 4992,
+                    "height": 6416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_103_65R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_104_65V",
+            "@type": "sc:Canvas",
+            "label": "65v",
+            "width": 5024,
+            "height": 6376,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_104_65V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_104_65V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_104_65V.JPG.tif"
+                    },
+                    "width": 5024,
+                    "height": 6376
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_104_65V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_105_66R",
+            "@type": "sc:Canvas",
+            "label": "66r",
+            "width": 4944,
+            "height": 6416,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_105_66R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_105_66R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_105_66R.JPG.tif"
+                    },
+                    "width": 4944,
+                    "height": 6416
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_105_66R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_106_66V",
+            "@type": "sc:Canvas",
+            "label": "66v",
+            "width": 5144,
+            "height": 6344,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_106_66V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_106_66V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_106_66V.JPG.tif"
+                    },
+                    "width": 5144,
+                    "height": 6344
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_106_66V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_107_83R",
+            "@type": "sc:Canvas",
+            "label": "83r",
+            "width": 4880,
+            "height": 6872,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_107_83R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_107_83R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_107_83R.JPG.tif"
+                    },
+                    "width": 4880,
+                    "height": 6872
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_107_83R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_108_83V",
+            "@type": "sc:Canvas",
+            "label": "83v",
+            "width": 4736,
+            "height": 6848,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_108_83V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_108_83V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_108_83V.JPG.tif"
+                    },
+                    "width": 4736,
+                    "height": 6848
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_108_83V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_109_84R",
+            "@type": "sc:Canvas",
+            "label": "84r",
+            "width": 4688,
+            "height": 6904,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_109_84R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_109_84R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_109_84R.JPG.tif"
+                    },
+                    "width": 4688,
+                    "height": 6904
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_109_84R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_110_84V",
+            "@type": "sc:Canvas",
+            "label": "84v",
+            "width": 4720,
+            "height": 6848,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_110_84V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_110_84V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_110_84V.JPG.tif"
+                    },
+                    "width": 4720,
+                    "height": 6848
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_110_84V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_111_85R",
+            "@type": "sc:Canvas",
+            "label": "85r",
+            "width": 4664,
+            "height": 6880,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_111_85R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_111_85R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_111_85R.JPG.tif"
+                    },
+                    "width": 4664,
+                    "height": 6880
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_111_85R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_112_85V",
+            "@type": "sc:Canvas",
+            "label": "85v",
+            "width": 4664,
+            "height": 6848,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_112_85V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_112_85V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_112_85V.JPG.tif"
+                    },
+                    "width": 4664,
+                    "height": 6848
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_112_85V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_113_86R",
+            "@type": "sc:Canvas",
+            "label": "86r",
+            "width": 4664,
+            "height": 6848,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_113_86R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_113_86R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_113_86R.JPG.tif"
+                    },
+                    "width": 4664,
+                    "height": 6848
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_113_86R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_114_86V",
+            "@type": "sc:Canvas",
+            "label": "86v",
+            "width": 4968,
+            "height": 6792,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_114_86V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_114_86V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_114_86V.JPG.tif"
+                    },
+                    "width": 4968,
+                    "height": 6792
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_114_86V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_115_87R",
+            "@type": "sc:Canvas",
+            "label": "87r",
+            "width": 5136,
+            "height": 6744,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_115_87R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_115_87R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_115_87R.JPG.tif"
+                    },
+                    "width": 5136,
+                    "height": 6744
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_115_87R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_116_87V",
+            "@type": "sc:Canvas",
+            "label": "87v",
+            "width": 5080,
+            "height": 6648,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_116_87V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_116_87V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_116_87V.JPG.tif"
+                    },
+                    "width": 5080,
+                    "height": 6648
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_116_87V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_117_88R",
+            "@type": "sc:Canvas",
+            "label": "88r",
+            "width": 5032,
+            "height": 6672,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_117_88R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_117_88R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_117_88R.JPG.tif"
+                    },
+                    "width": 5032,
+                    "height": 6672
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_117_88R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_118_88V",
+            "@type": "sc:Canvas",
+            "label": "88v",
+            "width": 5176,
+            "height": 6680,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_118_88V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_118_88V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_118_88V.JPG.tif"
+                    },
+                    "width": 5176,
+                    "height": 6680
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_118_88V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_119_91R",
+            "@type": "sc:Canvas",
+            "label": "91r",
+            "width": 5056,
+            "height": 7056,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_119_91R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_119_91R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_119_91R.JPG.tif"
+                    },
+                    "width": 5056,
+                    "height": 7056
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_119_91R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_120_91V",
+            "@type": "sc:Canvas",
+            "label": "91v",
+            "width": 4896,
+            "height": 7064,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_120_91V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_120_91V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_120_91V.JPG.tif"
+                    },
+                    "width": 4896,
+                    "height": 7064
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_120_91V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_121_92R",
+            "@type": "sc:Canvas",
+            "label": "92r",
+            "width": 5088,
+            "height": 7016,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_121_92R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_121_92R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_121_92R.JPG.tif"
+                    },
+                    "width": 5088,
+                    "height": 7016
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_121_92R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_122_92V",
+            "@type": "sc:Canvas",
+            "label": "92v",
+            "width": 4960,
+            "height": 7144,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_122_92V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_122_92V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_122_92V.JPG.tif"
+                    },
+                    "width": 4960,
+                    "height": 7144
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_122_92V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_123_93R",
+            "@type": "sc:Canvas",
+            "label": "93r",
+            "width": 5088,
+            "height": 7104,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_123_93R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_123_93R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_123_93R.JPG.tif"
+                    },
+                    "width": 5088,
+                    "height": 7104
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_123_93R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_124_93V",
+            "@type": "sc:Canvas",
+            "label": "93v",
+            "width": 5024,
+            "height": 7144,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_124_93V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_124_93V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_124_93V.JPG.tif"
+                    },
+                    "width": 5024,
+                    "height": 7144
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_124_93V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_125_94R",
+            "@type": "sc:Canvas",
+            "label": "94r",
+            "width": 4928,
+            "height": 7104,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_125_94R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_125_94R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_125_94R.JPG.tif"
+                    },
+                    "width": 4928,
+                    "height": 7104
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_125_94R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_126_94V",
+            "@type": "sc:Canvas",
+            "label": "94v",
+            "width": 5024,
+            "height": 7144,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_126_94V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_126_94V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_126_94V.JPG.tif"
+                    },
+                    "width": 5024,
+                    "height": 7144
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_126_94V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_127_95R",
+            "@type": "sc:Canvas",
+            "label": "95r",
+            "width": 4928,
+            "height": 7104,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_127_95R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_127_95R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_127_95R.JPG.tif"
+                    },
+                    "width": 4928,
+                    "height": 7104
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_127_95R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_128_95V",
+            "@type": "sc:Canvas",
+            "label": "95v",
+            "width": 5040,
+            "height": 7184,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_128_95V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_128_95V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_128_95V.JPG.tif"
+                    },
+                    "width": 5040,
+                    "height": 7184
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_128_95V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_129_96R",
+            "@type": "sc:Canvas",
+            "label": "96r",
+            "width": 4912,
+            "height": 7104,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_129_96R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_129_96R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_129_96R.JPG.tif"
+                    },
+                    "width": 4912,
+                    "height": 7104
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_129_96R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_130_96V",
+            "@type": "sc:Canvas",
+            "label": "96v",
+            "width": 5128,
+            "height": 7144,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_130_96V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_130_96V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_130_96V.JPG.tif"
+                    },
+                    "width": 5128,
+                    "height": 7144
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_130_96V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_131_97R",
+            "@type": "sc:Canvas",
+            "label": "97r",
+            "width": 4952,
+            "height": 7000,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_131_97R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_131_97R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_131_97R.JPG.tif"
+                    },
+                    "width": 4952,
+                    "height": 7000
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_131_97R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_132_97V",
+            "@type": "sc:Canvas",
+            "label": "97v",
+            "width": 4936,
+            "height": 6944,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_132_97V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_132_97V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_132_97V.JPG.tif"
+                    },
+                    "width": 4936,
+                    "height": 6944
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_132_97V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_133_98R",
+            "@type": "sc:Canvas",
+            "label": "98r",
+            "width": 5184,
+            "height": 7024,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_133_98R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_133_98R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_133_98R.JPG.tif"
+                    },
+                    "width": 5184,
+                    "height": 7024
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_133_98R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_134_98V",
+            "@type": "sc:Canvas",
+            "label": "98v",
+            "width": 5208,
+            "height": 7200,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_134_98V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_134_98V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_134_98V.JPG.tif"
+                    },
+                    "width": 5208,
+                    "height": 7200
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_134_98V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_135_99R",
+            "@type": "sc:Canvas",
+            "label": "99r",
+            "width": 5680,
+            "height": 7456,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_135_99R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_135_99R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_135_99R.JPG.tif"
+                    },
+                    "width": 5680,
+                    "height": 7456
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_135_99R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_136_99V",
+            "@type": "sc:Canvas",
+            "label": "99v",
+            "width": 5360,
+            "height": 7280,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_136_99V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_136_99V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_136_99V.JPG.tif"
+                    },
+                    "width": 5360,
+                    "height": 7280
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_136_99V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_137_100R",
+            "@type": "sc:Canvas",
+            "label": "100r",
+            "width": 5552,
+            "height": 7344,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_137_100R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_137_100R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_137_100R.JPG.tif"
+                    },
+                    "width": 5552,
+                    "height": 7344
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_137_100R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_138_100V",
+            "@type": "sc:Canvas",
+            "label": "100v",
+            "width": 5360,
+            "height": 7280,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_138_100V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_138_100V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_138_100V.JPG.tif"
+                    },
+                    "width": 5360,
+                    "height": 7280
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_138_100V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_139_101R",
+            "@type": "sc:Canvas",
+            "label": "101r",
+            "width": 5552,
+            "height": 7344,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_139_101R",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_139_101R.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_139_101R.JPG.tif"
+                    },
+                    "width": 5552,
+                    "height": 7344
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_139_101R"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_140_101V",
+            "@type": "sc:Canvas",
+            "label": "101v",
+            "width": 5520,
+            "height": 7256,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_140_101V",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_140_101V.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_140_101V.JPG.tif"
+                    },
+                    "width": 5520,
+                    "height": 7256
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_140_101V"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_141_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 5704,
+            "height": 7680,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_141_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_141_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_141_PG.JPG.tif"
+                    },
+                    "width": 5704,
+                    "height": 7680
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_141_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_142_PG",
+            "@type": "sc:Canvas",
+            "label": "PG",
+            "width": 5520,
+            "height": 7256,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_142_PG",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_142_PG.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_142_PG.JPG.tif"
+                    },
+                    "width": 5520,
+                    "height": 7256
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_142_PG"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_143_RCI",
+            "@type": "sc:Canvas",
+            "label": "RCI",
+            "width": 5704,
+            "height": 7680,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_143_RCI",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_143_RCI.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_143_RCI.JPG.tif"
+                    },
+                    "width": 5704,
+                    "height": 7680
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_143_RCI"
+            }]
+        }, {
+            "@id": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_144_RPI",
+            "@type": "sc:Canvas",
+            "label": "RPI",
+            "width": 5736,
+            "height": 7792,
+            "images": [{
+                "@id": "http://iiif.biblissima.fr/B693836101_MS0788/annotation/B693836101_MS0788_144_RPI",
+                "@type": "oa:Annotation",
+                "motivation": "sc:painting",
+                "resource": {
+                    "@id": "http://florus.bm-lyon.fr/web/ms/B693836101_MS0788/B693836101_MS0788_144_RPI.JPG.tif",
+                    "format": "image/tiff",
+                    "@type": "dctypes:Image",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "profile": "http://iiif.io/api/image/2/level1.json",
+                        "@id": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_144_RPI.JPG.tif"
+                    },
+                    "width": 5736,
+                    "height": 7792
+                },
+                "on": "http://iiif.biblissima.fr/B693836101_MS0788/canvas/B693836101_MS0788_144_RPI"
+            }]
+        }]
+    }],
+    "attribution": "Bibliothèque municipale de Lyon",
+    "thumbnail": "http://florus.bm-lyon.fr/fcgi-bin/iipsrv.fcgi?iiif=/var/www/florus/web/ms/B693836101_MS0788/B693836101_MS0788_002_RCS.JPG.tif/full/,150/0/default.jpg",
+    "logo": "http://static.biblissima.fr/images/bmlyon-logo.jpg",
+    "viewingHint": "paged"
+}
