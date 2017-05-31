@@ -31,6 +31,7 @@ IIIF Manifest (see `chateauroux-bm-ms-5` folder):
 Manifest URL: [http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json](http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json)
 
 [Got to demo page](http://demos.biblissima-condorcet.fr/chateauroux/)
+
 [Watch a video demo](http://www.youtube.com/watch?v=xYmbGmJjrEA&t=11m17s)
 
 
