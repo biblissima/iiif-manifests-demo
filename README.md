@@ -27,8 +27,10 @@ Virtual reconstruction of the original state of a French medieval manuscript (Ch
 
 IIIF Manifest (see `chateauroux-bm-ms-5` folder):
 - canvases with two image annotations, the second one targeting a specific region of the canvas (illumination cuttings)
+- ranges for the captions (ranges pointing to each canvas bearing an illumination cutting, with the caption as label of the range)
+- labels for image annotations (in order to display the illumination caption in the Layers tab in Mirador)
 
-Manifest URL: [http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json](http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json)
+Manifest URL: [http://iiif.biblissima.fr/chateauroux/B360446201_MS0005/manifest.json](http://iiif.biblissima.fr/chateauroux/B360446201_MS0005/manifest.json)
 
 [Go to demo page](http://demos.biblissima-condorcet.fr/chateauroux/)
 
