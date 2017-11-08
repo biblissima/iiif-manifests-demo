@@ -1,0 +1,522 @@
+
+                    {
+                    "@context": "http://www.shared-canvas.org/ns/context.json",
+                    "@id": "http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/list/transscript_14v.json",
+                    "@type": "sc:AnnotationList",
+                    "resources":[    
+                    
+                    
+                        
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line809.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Mais le mestier que il faiseit",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,500,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line810.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Ne volt leissier, quer dreiz n’esteit.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,708,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line811.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Anciés enveie isnelement",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,916,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line812.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"A cels, qu’il viengent belement.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,1124,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line813.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Ceste novele est tost seüe",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,1332,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line814.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Em plusors leus et esmeüe.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,1540,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line815.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Endementres que cil en vunt,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,1748,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line816.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Li evesques lor mestier funt ;",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,1956,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line817.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"A trait dient et belement",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,2164,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line818.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Quer del haster n’i a nient  :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,2372,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line819.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Del jor i a a grant plenté.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,2580,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line820.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Chantei esteit",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,2788,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line821.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Les oreisons, la letanie.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,2996,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line822.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"En la porte ert la croce oïe.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,3204,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line823.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"L’igliese ert ja avironnee",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,3412,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line824.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Set feis entor et poralee.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,3620,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line825.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Dedenz aveit seint Autbert mis",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,3828,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line826.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"La croiz od tot le crucefis.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,4036,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line827.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Devant l’autel, a genoillons,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,4244,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line828.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Aveit ja feit ses oreisons.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,4452,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line829.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"L’eve et li vins erent mellez,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,4660,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line830.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Le seil, la cendre enz jetez.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,4868,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line831.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Escrit i esteit l’abeiceis",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,5076,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line832.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Par le sablum qui ert tot freis  :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,5284,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line833.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"D’un angle a autre, en dous langages,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,5492,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line834.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"L’aveit escrit Autbert li sages",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,5700,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line835.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Od la pointe de son baston,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,5908,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line836.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Quer costume est, bien le savum.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,6116,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line837.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Emprés icen prist un bacin",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,6324,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/14v_line838.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Et de l’eive mesle od le vin,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-14v.json#xywh=1900,6532,3800,208"
+                        
+                        }
+                    
+                    ]
+                    }
+                

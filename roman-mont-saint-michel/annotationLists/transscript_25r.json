@@ -1,0 +1,522 @@
+
+                    {
+                    "@context": "http://www.shared-canvas.org/ns/context.json",
+                    "@id": "http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/list/transscript_25r.json",
+                    "@type": "sc:AnnotationList",
+                    "resources":[    
+                    
+                    
+                        
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1439.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Veieit le mal, la deablie",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,500,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1440.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que Rou faiseit par Normendie",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,713,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1441.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Et par trestote la contree,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,926,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1442.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Si cum ele ert, et longue, et lee  ;",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,1139,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1443.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Donc vint a lui, si l’apela,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,1352,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1444.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Molt dolcement ce li preia",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,1565,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1445.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que pais feïst od les Franceis",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,1778,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1446.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Qui li ourent mandei, anceis",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,1991,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1447.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Qu’il l’emparlast, grant ne petit,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,2204,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1448.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Les convenanz, par un escrit,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,2417,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1449.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Qu’o Rou ferunt por pais aveir :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,2630,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1450.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Il s’en repeine a son poier  ;",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,2843,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1451.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Tant le proia que veincu l’a.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,3056,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1452.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Aprof icen receü a",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,3269,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1453.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Del rei de France Normendie :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,3482,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1454.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Si huons en fut, puis li afie",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,3695,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1455.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que tozdis mais pais li tendra.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,3908,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1456.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Par ensommet li otrea",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,4121,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1457.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Kalles Bretagne, ce m’est vis,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,4334,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1458.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Tant qu’estorez fust sis païs.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,4547,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1459.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Li archevesque pas ne cesse",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,4760,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1460.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"D’aler a Rou et molt l’apresse,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,4973,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1461.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Tant com est joenvres, ainz que moire,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,5186,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1462.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que il receive bautestiere.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,5399,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1463.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Tant li a dit et sermoné",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,5612,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1464.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que il a pris crestienté.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,5825,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1465.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Vns quens de France le leva",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,6038,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1466.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Et son dreit non li emposa :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,6251,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1467.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Cil qui esteit Rous apelez",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,6464,4000,213"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/25r_line1468.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Des or meis est Robert nummez.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-25r.json#xywh=500,6677,4000,213"
+                        
+                        }
+                    
+                    ]
+                    }
+                

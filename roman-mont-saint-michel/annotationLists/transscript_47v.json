@@ -1,0 +1,522 @@
+
+                    {
+                    "@context": "http://www.shared-canvas.org/ns/context.json",
+                    "@id": "http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/list/transscript_47v.json",
+                    "@type": "sc:AnnotationList",
+                    "resources":[    
+                    
+                    
+                        
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2937.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"En quaresme, si cum je pens,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,500,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2938.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Le faiseit plus qu’en altre tens.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,708,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2939.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Moine fut puis de l’abeïe",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,916,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2940.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Quant s’evesquié out deguerpie,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,1124,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2941.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Que il leissa por Deu amor,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,1332,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2942.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Neient por nule desenor.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,1540,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2943.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Quant ses matines out chantees",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,1748,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2944.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Li evesques, et definees",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,1956,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2945.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"A Avrenches, enz el mostier,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,2164,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2946.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Nuit ert encor, va se couchier.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,2372,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2947.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Si cum s’en vait, par la clarté",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,2580,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2948.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"D’une fenestre a fors guardé  :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,2788,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2949.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Le mont vit ardre et le mostier ;",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,2996,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2950.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Grant ert li feus et li brasier,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,3204,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2951.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"De totes pars esteit espris.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,3412,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2952.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Haut volouent, cen li ert vis,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,3620,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2953.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Les estenceles, les charbons",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,3828,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2954.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Qui chaieient de cez maisons  :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,4036,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2955.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Des le gravier de ci qu’amunt",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,4244,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2956.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Envers le ciel vienent et vunt.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,4452,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2957.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Ceste merveille mostré a",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,4660,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2958.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"A cels qui erent o lui la  :",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,4868,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2959.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Alquant dient que il le veient,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,5076,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2960.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Li altre dient non faseient.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,5284,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2961.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Li buen homme bien veü l’unt,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,5492,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2962.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Al mien espeir, mes li mal n’unt.",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,5700,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2963.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Eneslespas aünez a",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,5908,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2964.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Les chanoines, si commencha",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,6116,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2965.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"Icel servise qui apent",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,6324,3800,208"
+                        
+                        }
+                     ,    
+                        {
+                        
+                        "@id":"http://demos.biblissima-condorcet.fr/iiif/metadata/BL_Add_10289/Annotation/47v_line2966.json",
+                        "@type":"oa:Annotation",
+                        "motivation":"sc:painting",
+                        "resource":{
+                        "@type":"cnt:ContentAsText",
+                        "chars":"A cels qui sunt morz novealment,",
+                        "format":"text/plain",
+                        "language":"fr-FR"
+                        },
+                        
+                        
+                        "on":"http://sanddragon.bl.uk/IIIFMetadataService/canvas/folio-47v.json#xywh=1900,6532,3800,208"
+                        
+                        }
+                    
+                    ]
+                    }
+                
